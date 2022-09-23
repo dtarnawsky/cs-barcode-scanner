@@ -1,0 +1,7 @@
+{
+  "name": "cs-barcode-scan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
